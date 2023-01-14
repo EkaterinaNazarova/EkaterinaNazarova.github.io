@@ -1,0 +1,29 @@
+body
+{
+    background-color:#FFFF00;
+}
+H1
+{
+    font-family:Arial;
+}
+a
+{
+    font-family:Arial;
+}
+img
+{
+    width: 400px;
+}
+img.loh
+{
+    width: 1200px;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
